@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VishalSapkal48/Pixel6-Assignment.git/static/css/main.b821c925.css",
+    "main.js": "/VishalSapkal48/Pixel6-Assignment.git/static/js/main.7cb17ffd.js",
+    "static/js/453.d1ead18a.chunk.js": "/VishalSapkal48/Pixel6-Assignment.git/static/js/453.d1ead18a.chunk.js",
+    "index.html": "/VishalSapkal48/Pixel6-Assignment.git/index.html",
+    "main.b821c925.css.map": "/VishalSapkal48/Pixel6-Assignment.git/static/css/main.b821c925.css.map",
+    "main.7cb17ffd.js.map": "/VishalSapkal48/Pixel6-Assignment.git/static/js/main.7cb17ffd.js.map",
+    "453.d1ead18a.chunk.js.map": "/VishalSapkal48/Pixel6-Assignment.git/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b821c925.css",
+    "static/js/main.7cb17ffd.js"
+  ]
+}
